@@ -1,0 +1,64 @@
+{
+    "SERVICENOW": {
+        "INSTANCE_URL": "dev343290.service-now.com",
+        "USERNAME": "admin",
+        "PASSWORD": xxxx
+        "KNOWLEDGE_BASE": "kb_knowledge_base",
+        "ARTICLE_TABLE": "kb_knowledge",
+        "INCIDENT_TABLE": "incident",
+        "INSTANCE": "dev343290"
+    },
+    "AZURE_OPENAI": {
+        "API_KEY": "76d7d6a390854265a11ea026f86f0ca4",
+        "ENDPOINT": "https://lshcerupsgpt.azure-api.net/aid-ams/",
+        "API_VERSION": "2025-01-01-preview",
+        "MODEL_NAME": "gpt-4-32k"
+    },
+    "CONFLUENCE": {
+        "USERNAME": "tvhvihar@gmail.com",
+        "PASSWORD": "ATATT3xFfGF0SRW_RXVsR1hfsdeazYosRFAszUJrSEvPB-J8GKe3K4q9MB4UC9uXbJmkC8qIRElX7O0bAMbfjkzHc_3l-7fadQPyGl70ECyDaKwXFgXjhBsEzs-tV1i_uOLm1NFFN9wBYkF_T8kbBY48Txbzh1_yKisLECd3CsK1geJVQw0zLOY=0D675183",
+        "BASE_URL": "https://opscopilot.atlassian.net/wiki/rest/api/content",
+        "global_password_policy_confluence_page_id": "/458753"
+    },
+    "SNOW_ASSIGNMENT_GROUPS_SYS_ID": {
+        "Software_L1_Support": "7ef6491183a56250c71cf855eeaad358",
+        "Others_L1_Support": "250ee9a1836da250c71cf855eeaad3fd",
+        "Network_L1_Support": "52ffad65836da250c71cf855eeaad36b"
+    },
+    "JIRA": {
+        "USERNAME": "tvhvihar@gmail.com",
+        "PROJECT_KEY": "OP",
+        "xxxx"ATATT3xFfGF0SRW_RXVsR1hfsdeazYosRFAszUJrSEvPB-J8GKe3K4q9MB4UC9uXbJmkC8qIRElX7O0bAMbfjkzHc_3l-7fadQPyGl70ECyDaKwXFgXjhBsEzs-tV1i_uOLm1NFFN9wBYkF_T8kbBY48Txbzh1_yKisLECd3CsK1geJVQw0zLOY=0D675183",
+        "INSTANCE_URL": "opscoplilot.atlassian.net",
+        "JIRA_DOMAIN": "opscopilot.atlassian.net",
+        "EMAIL": "tvhvihar@gmail.com",
+        "API_TOKEN": "ATATT3xFfGF0SRW_RXVsR1hfsdeazYosRFAszUJrSEvPB-J8GKe3K4q9MB4UC9uXbJmkC8qIRElX7O0bAMbfjkzHc_3l-7fadQPyGl70ECyDaKwXFgXjhBsEzs-tV1i_uOLm1NFFN9wBYkF_T8kbBY48Txbzh1_yKisLECd3CsK1geJVQw0zLOY=0D675183",
+        "PROJECT_KEY":"OP",
+        "ISSUE_TYPE":"Task"
+    },
+    "GOOGLE_GEMINI":{
+        "API_KEY" : "AIzaSyCkcC1_doXNWZRRb0hQU_U4Yic_baqMmGE"
+    },
+    "LANGSMITH":{
+        "API_KEY" : "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",
+        "TRACING": "false",
+        "LANGSMITH_PROJECT": "AID_AMS_PROJECT"
+    },
+    "PGSQL" : {
+        "HOST" : "localhost",
+        "PORT" : "5432",
+        "DNAME" : "postgres",
+        "USER" : "postgres",
+        "xxxx "xxxx"
+    },
+    "AzureOpenAIEmbeddings" : {
+        "embedding_name" : "text-embedding-ada-002"
+    },
+    "VEEVA" : {
+        "vault_url" : "https://partnersi-tcs-clinical.veevavault.com",
+        "api_version" : "v23.2",
+        "username" : "kumar.peeyush@partnersi-tcs.com",
+        "xxxx "veevaOps123@",
+        "milestone_id" : "0MI000000012001"
+    }
+}
